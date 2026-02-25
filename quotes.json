@@ -1,0 +1,35 @@
+[
+  {
+    "text": "Your quote here",
+    "author": "Author name",
+    "source": "Source",
+    "category": "Category",
+    "submitter": "Your name"
+  },
+  {
+    "text": "Another quote",
+    "author": "Another author",
+    "source": "Book title",
+    "category": "Wisdom",
+    "submitter": "James"
+  }
+]
+```
+
+---
+
+### **3. Upload to GitHub**
+
+1. In your repo, click **"Add file"** → **"Upload files"**
+2. Upload your `quotes.json`
+3. Click **"Commit changes"**
+
+---
+
+### **4. Get the Raw URL**
+
+1. Click on `quotes.json` in your repo
+2. Click the **"Raw"** button
+3. Copy the URL - it looks like:
+```
+   https://raw.githubusercontent.com/YOUR_USERNAME/labyrinth-quotes/main/quotes.json
