@@ -120,7 +120,7 @@ you are terrifying
   {
     "text": "Ah, but a man's reach should exceed his grasp, or what's a heaven for?",
     "author": "Robert Browning",
-    "source": "Poem",
+    "source": "",
     "category": "Motivation & Inspiration",
     "submitter": "Mary Suminski"
   },
@@ -1456,7 +1456,7 @@ you are terrifying
   },
   {
     "text": "To live is urgent",
-    "author": "Unkown",
+    "author": "Unknown",
     "source": "Eduardo Strauch",
     "category": "Humanity & Philosophy",
     "submitter": "Sarah"
@@ -1490,14 +1490,14 @@ you are terrifying
     "submitter": "Rich"
   },
   {
-    "text": "Do. Or do not. There is no try.",
-    "author": "Today",
+    "text": "Do. Or do not. There is no try."
+    "author": "George Lucas",
     "source": "Movie",
     "category": "Wisdom & Life Lessons",
     "submitter": "Rich"
   },
   {
-    "text": "The greatest teacher, is failure there is.",
+    "text": "The greatest teacher, failure is.",
     "author": "Yoga",
     "source": "Movie",
     "category": "Wisdom & Life Lessons",
@@ -1537,5 +1537,82 @@ you are terrifying
     "source": "Rules of Civility and Decent Behavior In Company and Conversation",
     "category": "Wisdom & Life Lessons",
     "submitter": "Jack"
+  },
+  {
+    "text": "Be the nail that sticks out",
+    "author": "Japanese proverb",
+    "source": "Junko Tabei",
+    "category": "Identity & Growth",
+    "submitter": "Sarah"
+  },
+  {
+    "text": "It never did belong to me",
+    "author": "Pueblo saying",
+    "source": "",
+    "category": "Nature & Animals",
+    "submitter": "Sarah"
+  },
+  {
+    "text": "The mystery of life isn’t a problem to solve, but a reality to experience.",
+    "author": "Frank Herbert",
+    "source": "Dune",
+    "category": "Wisdom & Life Lessons",
+    "submitter": "Will"
+  },
+  {
+    "text": "Not all those who wander are lost.",
+    "author": "J.R.R. Tolkien",
+    "source": "",
+    "category": "Humanity & Philosophy",
+    "submitter": "Will"
+  },
+  {
+    "text": "Not all those who wander are lost.",
+    "author": "J.R.R. Tolkien",
+    "source": "",
+    "category": "Humanity & Philosophy",
+    "submitter": "Will"
+  },
+  {
+    "text": "All we have to decide is what to do with the time that is given us.",
+    "author": "J.R.R. Tolkien",
+    "source": "",
+    "category": "Wisdom & Life Lessons",
+    "submitter": "Will"
+  },
+  {
+    "text": "The way I see it, if you want the rainbow you gotta put up with the rain.",
+    "author": "Dolly Parton",
+    "source": "",
+    "category": "Wisdom & Life Lessons",
+    "submitter": "K Pierce"
+  },
+  {
+    "text": "You know what they say—if you hire a bunch of beavers, do not expect a Hoover Dam.",
+    "author": "Unknown",
+    "source": "",
+    "category": "Humor & Wit",
+    "submitter": "Adam F."
+  },
+  {
+    "text": "Don’t go to Chornobyl for chemo. therapy just because it’s a little cheaper.",
+    "author": "Unknown",
+    "source": "",
+    "category": "Humor & Wit",
+    "submitter": "ADF"
+  },
+  {
+    "text": "You can do as much damage control as possible, but be cautious about giving JFK just a tourniquet.",
+    "author": "Unknown",
+    "source": "",
+    "category": "Humor & Wit",
+    "submitter": "ADF"
+  },
+  {
+    "text": "Sometimes it is acceptable to go to extremes—why order a salad on death row?",
+    "author": "Unknown",
+    "source": "",
+    "category": "Humor & Wit",
+    "submitter": "ADF"
   }
 ]
